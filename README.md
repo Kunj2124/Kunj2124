@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kunj2124
-- 👀 I’m interested in Data Science and Web Development.
-- 🌱 I’m currently learning Cybersecurity and Front-End Web Development.
+- 👋 Hi, I’m Kunj Agarwal.
+- 👀 I’m interested in Cybersecurity and Web Development.
+- 🌱 I’m currently learning Front-End Web Development.
 - 💞️ I’m looking to collaborate on Open Source Projects.
 - 📫 Reach me on
   E-mail: kunj.agarwal.243@gmail.com | LinkedIn: @Kunj Agarwal
