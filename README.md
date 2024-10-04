@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kunj Agarwal</h1>
 <h3 align="center">A passionate Cybersecurity Enthusiast & Frontend Developer from India</h3>
 
-- 🔭 I’m currently working on [GreatMindz](https://github.com/StrugglerSuryansh/static-site)
 
 - 🌱 I’m currently learning **MERN Stack and Cyber Security**
 
